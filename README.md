@@ -1,4 +1,4 @@
-﻿# Cluster enabled Express Server with OAuth2
+﻿# NodeJS Cluster enabled Express Server with OAuth2
 ---
 #### A simple express server with some useful features
 1. Easily enable clustering for all your Express end points
@@ -35,3 +35,8 @@
     4. mongoose specific version "3.8.23"
     5. Latest version of node-oauth2-server ("^2.2.2")
     6. Latest version of sqlite3 ("^3.0.5")
+
+### Platform
+	Although this has only been tested on Windows 7, with node v0.10.28, I have
+	been careful in choosing cross-platform modules and in theory this code
+	should function on Linux
