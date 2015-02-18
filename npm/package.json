@@ -1,12 +1,20 @@
 {
   "name": "cemserver",
-  "version": "0.1.0",
-  "description": "Clusterable ExpressJS Server with OAuth2",
+  "version": "0.0.1",
+  "description": "Clusterable ExpressJS Server with OAuth2\nA very simple and hopefully powerful NodeJS OAuth2 server, as well as a simple sqlite3 based JSON Cache.",
   "main": "app.js",
   "author": {
     "name": "Samir.Benali",
     "email": "benali_sam@hotmail.com"
   },
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/sbenali/CEMServer"
+  },
+  "keywords":[
+    "ExpressJS 4.0 With OAuth2", "NodeJS Clusterable", "HTTP Server",
+    "JSON Cache", "sqlite3"
+  ],
   "dependencies": {
     "body-parser": "^1.12.0",
     "express": "^4.11.2",

@@ -23,10 +23,15 @@
 
 
 ### Installing
-	once you have cloned the repository you can simply type
-	`npm install` at the root in order to install the required
-	node modules
+	#### Using npm
+		You can install this module with the following
+		npm install cemserver or cemserver@0.1.0
 
+	#### Cloning this repo
+		once you have cloned the repository you can simply type
+		`npm install` at the root in order to install the required
+		node modules
+---
 ### Dependencies
 	1. Latest version of ExpressJS ("^4.11.2")
 		**body-parser ("^1.12.0")
@@ -35,7 +40,7 @@
     4. mongoose specific version "3.8.23"
     5. Latest version of node-oauth2-server ("^2.2.2")
     6. Latest version of sqlite3 ("^3.0.5")
-
+---
 ### Platform
 	Although this has only been tested on Windows 7, with node v0.10.28, I have
 	been careful in choosing cross-platform modules and in theory this code
