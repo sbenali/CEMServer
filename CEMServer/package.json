@@ -1,7 +1,7 @@
 {
-  "name": "CEMServer",
-  "version": "0.0.0",
-  "description": "Clusterable ExpressJS Server",
+  "name": "cemserver",
+  "version": "0.1.0",
+  "description": "Clusterable ExpressJS Server with OAuth2",
   "main": "app.js",
   "author": {
     "name": "Samir.Benali",
