@@ -1,0 +1,19 @@
+{
+  "name": "cemserver",
+  "version": "0.1.0",
+  "description": "Clusterable ExpressJS Server with OAuth2",
+  "main": "app.js",
+  "author": {
+    "name": "Samir.Benali",
+    "email": "benali_sam@hotmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.11.2",
+    "jasmine-node": "^1.14.5",
+    "moment": "^2.9.0",
+    "mongoose": "3.8.23",
+    "node-oauth2-server": "^2.2.2",
+    "sqlite3": "^3.0.5"
+  }
+}
