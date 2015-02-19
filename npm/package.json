@@ -1,6 +1,6 @@
 {
   "name": "cemserver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Clusterable ExpressJS Server with OAuth2\nA very simple and hopefully powerful NodeJS OAuth2 server, as well as a simple sqlite3 based JSON Cache.",
   "main": "app.js",
   "author": {

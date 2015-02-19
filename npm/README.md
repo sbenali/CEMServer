@@ -26,9 +26,14 @@ You can find all the code here:
 
 
 ### Installing
-	once you have cloned the repository you can simply type
-	`npm install` at the root in order to install the required
-	node modules
+	> Using npm
+		You can install this module with the following
+		`npm install cemserver` or `npm install cemserver@0.0.1`
+
+	> Cloning this repo
+		once you have cloned the repository you can simply type
+		`npm install` at the root in order to install the required
+		node modules
 
 ### Dependencies
 	1. Latest version of ExpressJS ("^4.11.2")

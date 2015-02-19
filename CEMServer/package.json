@@ -1,6 +1,6 @@
 {
   "name": "cemserver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Clusterable ExpressJS Server with OAuth2",
   "main": "app.js",
   "author": {
