@@ -7,7 +7,7 @@
 
 
 ### Very basic usage
-	..see the file app.js for a full example of the basic usage
+	..See the file (CEMServer/app.js) which is also available in (npm/sample.js) for a full example of the basic usage
 
 ## Using the express server
 ```javascript
@@ -23,11 +23,11 @@
 
 
 ### Installing
-	#### Using npm
+	> Using npm
 		You can install this module with the following
-		npm install cemserver or cemserver@0.1.0
+		`npm install cemserver` or `npm install cemserver@0.0.1`
 
-	#### Cloning this repo
+	> Cloning this repo
 		once you have cloned the repository you can simply type
 		`npm install` at the root in order to install the required
 		node modules
